@@ -1,0 +1,4862 @@
+[
+  {
+    "TIME": 2008,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 500297033,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 495985066,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 333096775,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 329884170,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10666866,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7518002,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10343422,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5475791,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 82217837,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 82217837,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1338440,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4457765,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11060937,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 45668939,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 64007193,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "France (m%uFFFDtropolitaine)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 62134866,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4311967,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 58652875,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 776333,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2191810,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3212605,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 483799,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10045401,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 407832,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 16405399,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8307989,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 38115641,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10553339,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 20635460,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2010269,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5376064,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5300484,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9182927,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 61571647,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 505385019,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 501073052,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 12681480,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 315459,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 35356,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4737171,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7593494,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 615543,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2045177,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2958266,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7365507,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 70586256,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Andorre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 83137,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9689770,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Bosnie-Herz%uFFFDgovine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3843846,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Kosovo (selon la r%uFFFDsolution 1244/99 du Conseil de s%uFFFDcurit%uFFFD des Nations Unies)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2153139,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Moldavie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3572703,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Russie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 142008838,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Saint-Marin",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 32054,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46192309,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Arm%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3230086,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8629900,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2008,
+    "GEO": "G%uFFFDorgie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4382070,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 502090235,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 497780439,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 334470255,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 331286399,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10753080,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7467119,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10425783,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5511451,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 82002356,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 82002356,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1335740,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4521322,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11094745,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46239273,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 64350226,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "France (m%uFFFDtropolitaine)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 62465709,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4309796,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 59000586,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 796930,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2162834,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3183856,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 493500,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10030975,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 410926,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 16485787,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8335003,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 38135876,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10563014,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 20440290,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2032362,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5382401,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5326314,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9256347,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 62042343,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 507244444,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 502934648,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 12856065,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 319368,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 35589,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4799252,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7701856,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 617157,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2048619,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2936355,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7334937,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 71517100,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Andorre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 84484,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9671912,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Bosnie-Herz%uFFFDgovine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3843998,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Kosovo (selon la r%uFFFDsolution 1244/99 du Conseil de s%uFFFDcurit%uFFFD des Nations Unies)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2180686,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Moldavie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3567512,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Russie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 141903979,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Saint-Marin",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 31269,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 45963359,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Arm%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3237976,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8896900,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2009,
+    "GEO": "G%uFFFDorgie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4385429,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 503170618,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 498867771,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 335266424,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 332124448,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10839905,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7421766,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10462088,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5534738,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 81802257,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 81802257,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1333290,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4549428,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11119289,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46486619,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 64658856,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "France (m%uFFFDtropolitaine)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 62765235,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4302847,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 59190143,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 819140,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2120504,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3141976,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 502066,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10014324,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 414027,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 16574989,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8351643,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 38022869,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10573479,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 20294683,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2046976,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5390410,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5351427,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9340682,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 62510197,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 508382341,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 504079494,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 12997529,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 317630,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 35894,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4858199,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7785806,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 619001,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2052722,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2918674,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7306677,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 72561312,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Andorre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 84082,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9480178,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Bosnie-Herz%uFFFDgovine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3844046,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Kosovo (selon la r%uFFFDsolution 1244/99 du Conseil de s%uFFFDcurit%uFFFD des Nations Unies)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2208107,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Moldavie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3563695,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Russie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 141914509,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 45782592,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Arm%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3249482,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8997586,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2010,
+    "GEO": "G%uFFFDorgie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4436391,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 502964837,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 498674980,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 334572589,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 331520001,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11000638,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7369431,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10486731,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5560628,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 80222065,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 80222065,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1329660,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4570881,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11123392,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46667174,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 64978721,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "France (m%uFFFDtropolitaine)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 63070344,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4289857,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 59364690,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 839751,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2074605,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3052588,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 511840,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9985722,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 414989,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 16655799,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8375164,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 38062718,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10572721,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 20199059,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2050189,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5392446,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5375276,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9415570,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 63022532,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 508239743,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 503949886,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 13145040,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 318452,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 36149,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4920305,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7870134,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 619850,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2057284,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2907361,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7251549,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 73722988,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Andorre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 78115,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9481193,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Bosnie-Herz%uFFFDgovine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3843183,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Kosovo (selon la r%uFFFDsolution 1244/99 du Conseil de s%uFFFDcurit%uFFFD des Nations Unies)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1794180,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Moldavie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3560430,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Russie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 142856536,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Saint-Marin",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 31863,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 45598179,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Arm%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3262650,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9111078,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2011,
+    "GEO": "G%uFFFDorgie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4469250,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 504047964,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 499771980,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 335288924,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 332285283,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11075889,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7327224,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10505445,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5580516,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 80327900,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 80327900,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1325217,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4589287,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11086406,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46818219,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 65276983,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "France (m%uFFFDtropolitaine)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 63375971,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4275984,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 59394207,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 862011,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2044813,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3003641,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 524853,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9931925,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 417546,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 16730348,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8408121,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 38063792,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10542398,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 20095996,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2055496,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5404322,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5401267,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9482855,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 63495303,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 509389884,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 505113900,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 13296582,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 319575,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 36475,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4985870,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7954662,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 620308,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2059794,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2903008,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7216649,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 74724269,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Andorre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 78115,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9465150,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Bosnie-Herz%uFFFDgovine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3839265,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Moldavie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3559541,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Russie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 143056383,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Saint-Marin",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 33376,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 45453282,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Arm%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3274285,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9235085,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2012,
+    "GEO": "G%uFFFDorgie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4497617,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 505161863,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 500899723,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 336043821,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 333071916,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11137974,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7284552,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10516125,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5602628,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 80523746,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 80523746,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1320174,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4609779,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11003615,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46727890,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 65600350,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "France (m%uFFFDtropolitaine)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 63697865,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4262140,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 59685227,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 865878,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2023825,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2971905,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 537039,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9908798,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 422509,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 16779575,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8451860,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 38062535,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10487289,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 20020074,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2058821,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5410836,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5426674,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9555893,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 63905297,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 510571833,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 506309693,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 13449030,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 321857,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 36838,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5051275,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8039060,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 620893,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2062294,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2897770,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7181505,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 75627384,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Andorre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 76246,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9463840,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Moldavie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3559497,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Saint-Marin",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 33562,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 45372692,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2013,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9356483,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 507011330,
+    "Flag and Footnotes": "e"
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 502764521,
+    "Flag and Footnotes": "e"
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 337540639,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 334597167,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11180840,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7245677,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10512419,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5627235,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 80767463,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 80767463,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1315819,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4637852,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10926807,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46512199,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 65942267,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4246809,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 60782668,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 858000,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2001468,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2943472,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 549680,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9877365,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 429424,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 16829289,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8507786,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 38017856,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10427301,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 19947311,
+    "Flag and Footnotes": "e"
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2061085,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5415949,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5451270,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9644864,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 64351155,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 512482100,
+    "Flag and Footnotes": "e"
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 508235291,
+    "Flag and Footnotes": "e"
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 13610401,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 325671,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 37129,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5107970,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8139631,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 621521,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2065769,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2892394,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7146759,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 76667864,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9468154,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Moldavie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3557634,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Russie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 143666931,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 45245894,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9477119,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2014,
+    "GEO": "G%uFFFDorgie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4490498,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 508540103,
+    "Flag and Footnotes": "be"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 504314787,
+    "Flag and Footnotes": "be"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 338560247,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 335638985,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11237274,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7202198,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10538275,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5659715,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 81197537,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 81197537,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1314870,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4677627,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10858018,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46449565,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 66456279,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4225316,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 60795612,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 847008,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1986096,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2921262,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 562958,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9855571,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 439691,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 16900726,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8584926,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 38005614,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10374822,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 19870647,
+    "Flag and Footnotes": "e"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2062874,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5421349,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5471753,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9747355,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 64875165,
+    "Flag and Footnotes": "e"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 514073062,
+    "Flag and Footnotes": "be"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 509847746,
+    "Flag and Footnotes": "be"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 13770625,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 329100,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 37366,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5166493,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8237666,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 622099,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2069172,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2885796,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7114393,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 77695904,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9480868,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Moldavie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3555159,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 42759661,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Arm%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3010598,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9593038,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2015,
+    "GEO": "G%uFFFDorgie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3729500,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 510277177,
+    "Flag and Footnotes": "ep"
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 506086508,
+    "Flag and Footnotes": "ep"
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 339880049,
+    "Flag and Footnotes": "p"
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 336991491,
+    "Flag and Footnotes": "p"
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11311117,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7153784,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10553843,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5707251,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 82175684,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 82175684,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1315944,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4726286,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10783748,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46440099,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 66730453,
+    "Flag and Footnotes": "p"
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4190669,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 60665551,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 848319,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1968957,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2888558,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 576249,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9830485,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 450415,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 16979120,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8700471,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 37967209,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10341330,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 19760314,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2064188,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5426252,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5487308,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9851017,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 65382556,
+    "Flag and Footnotes": "e"
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 515858049,
+    "Flag and Footnotes": "ep"
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 511667380,
+    "Flag and Footnotes": "ep"
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 13907998,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 332529,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 37622,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5210721,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8327126,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 622218,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2071278,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2875592,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7076372,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 78741053,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9498364,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Kosovo (selon la r%uFFFDsolution 1244/99 du Conseil de s%uFFFDcurit%uFFFD des Nations Unies)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1771604,
+    "Flag and Footnotes": "p"
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 42590879,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Arm%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2998577,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9705643,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2016,
+    "GEO": "G%uFFFDorgie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3720400,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Union europ%uFFFDenne (composition actuelle)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 511522671,
+    "Flag and Footnotes": "bp"
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Union europ%uFFFDenne (avant l'accession de la Croatie)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 507368458,
+    "Flag and Footnotes": "bp"
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Zone euro (19 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 340720409,
+    "Flag and Footnotes": "bp"
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Zone euro (18 pays)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 337872505,
+    "Flag and Footnotes": "bp"
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Belgique",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 11351727,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Bulgarie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7101859,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Tch%uFFFDquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10578820,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Danemark",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5748769,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 82521653,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Allemagne incluant l'ancienne RDA",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 82521653,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Estonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1315635,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Irlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4784383,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Gr%uFFFDce",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10768193,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Espagne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 46528024,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "France",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 66989083,
+    "Flag and Footnotes": "p"
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Croatie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 4154213,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Italie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 60589445,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Chypre",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 854802,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Lettonie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1950116,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Lituanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2847904,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Luxembourg",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 590667,
+    "Flag and Footnotes": "b"
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Hongrie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9797561,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Malte",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 460297,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Pays-Bas",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 17081507,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Autriche",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8772865,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Pologne",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 37972964,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Portugal",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 10309573,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Roumanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 19644350,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Slov%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2065895,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Slovaquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5435343,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Finlande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5503297,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Su%uFFFDde",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9995153,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Royaume-Uni",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 65808573,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE28 - composition actuelle, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 517157147,
+    "Flag and Footnotes": "bp"
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Espace %uFFFDconomique europ%uFFFDen (EEE) (UE27 - avant l'accession de la Croatie, plus IS, LI, NO)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 513002934,
+    "Flag and Footnotes": "bp"
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Association Europ%uFFFDenne de Libre Echange (AELE)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 14054026,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Islande",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 338349,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Liechtenstein",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 37810,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Norv%uFFFDge",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 5258317,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Suisse",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 8419550,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Mont%uFFFDn%uFFFDgro",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 622387,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Ancienne R%uFFFDpublique yougoslave de Mac%uFFFDdoine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2073702,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Albanie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2876591,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Serbie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 7040272,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Turquie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 79814871,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Bi%uFFFDlorussie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9504704,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Kosovo (selon la r%uFFFDsolution 1244/99 du Conseil de s%uFFFDcurit%uFFFD des Nations Unies)",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 1783531,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Moldavie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3550852,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Ukraine",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 42414905,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Arm%uFFFDnie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 2986151,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "Azerba%uFFFDdjan",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 9809981,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2017,
+    "GEO": "G%uFFFDorgie",
+    "AGE": "Total",
+    "SEX": "Total",
+    "UNIT": "Nombre",
+    "Value": 3718200,
+    "Flag and Footnotes": ""
+  }
+]

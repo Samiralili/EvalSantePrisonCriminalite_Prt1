@@ -1,0 +1,2522 @@
+[
+  {
+    "TIME": 1998,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 36419,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 43888,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 9962,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 237786,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 4089,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 11235,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 45389,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 223582,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 223582,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 22577,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 265093,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 3987,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 10878,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 14181,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1136,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 30382,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1756,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 32088,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 26817,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 99285,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 46104,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 48803,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 6821,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 13988,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 7889,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 16429,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 126814,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 14854,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 7384,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 14367,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1998,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 322766,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 36179,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 44083,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 10048,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 252230,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 3584,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 11458,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 48981,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    "Value": 187450,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 227123,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 227123,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 22219,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 273422,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 4258,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 10697,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 13663,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1162,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 29878,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1734,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 32374,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 26883,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 98647,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 47303,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 48106,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 6465,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 13957,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 7960,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 16201,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 126096,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 14684,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    "Value": 11240,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    "Value": 72,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 7725,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 14156,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 1999,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 345033,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 36933,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 44828,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 10197,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 250178,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 3633,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 11640,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 51081,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    "Value": 189165,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 233484,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 233484,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 22264,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 273211,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 4462,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 10649,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 12731,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1196,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 28873,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1718,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 33394,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 28977,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 100695,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 48326,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 46105,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 6882,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 14373,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 8166,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 16089,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 124170,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 14948,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    "Value": 10905,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    "Value": 74,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 8031,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 14500,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    "Value": 7607,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2000,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 347806,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 37432,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 44940,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 10228,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 248277,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 3550,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 11815,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 51658,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    "Value": 189543,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 231795,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 231795,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 19693,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 270696,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 4467,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 10376,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 12159,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1205,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 28845,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1768,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 36157,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 28440,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 101246,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 48203,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 44390,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 7359,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 14585,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 8273,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 16120,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 125682,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 15093,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    "Value": 9492,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    "Value": 75,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 8121,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 14971,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    "Value": 6162,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2001,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 368942,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 37242,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 45538,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 10233,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 247190,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 3503,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 11895,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 51634,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    "Value": 190119,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 235116,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 235116,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 19537,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 272282,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 4531,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 10265,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 11678,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1254,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 28996,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1796,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 36766,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 27798,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 99502,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 47856,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 45245,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 7392,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 13997,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 8323,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 16149,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 129603,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 15287,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    "Value": 9070,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    "Value": 678,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    "Value": 79,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 8221,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 15073,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    "Value": 7683,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2002,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 370095,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 36318,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 46616,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 10352,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 245415,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 3553,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 12017,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 52123,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    "Value": 194973,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 233250,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 233250,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 19622,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 249714,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 4773,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 9796,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 11910,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1304,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 29518,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1845,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 36907,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 26634,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 99919,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 47258,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 45690,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 7526,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 13667,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 8288,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 16292,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 133366,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 15482,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    "Value": 8986,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    "Value": 678,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    "Value": 84,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 8062,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 15155,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    "Value": 8357,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2003,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 318189,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 37008,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 47232,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 10483,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 246756,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 3520,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 12209,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 50171,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    "Value": 198072,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 235792,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 235792,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 19634,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 250237,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 4903,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 9902,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 11526,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1352,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 29516,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1775,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 35996,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 27111,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 100770,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 47647,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 45770,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 7618,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 14079,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 8247,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 16891,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 139200,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 16001,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    "Value": 8936,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    "Value": 671,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    "Value": 87,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 8169,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 15473,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    "Value": 9231,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2004,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 327371,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 38911,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 45498,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 10728,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 248188,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 3412,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 12265,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 49696,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    "Value": 202535,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 234966,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 234966,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 19898,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 249313,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 4999,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 9920,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 11216,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1403,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 28627,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1789,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 35284,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 27111,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 100654,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 46929,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 46875,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 7881,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 22487,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 8237,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 17073,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 141230,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 16221,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    "Value": 8579,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    "Value": 679,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    "Value": 92,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 7483,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 16444,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    "Value": 9815,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2005,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 330310,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 38963,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 46032,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 10819,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 250284,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 3238,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 12954,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 48521,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    "Value": 209163,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 241998,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 241998,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 19790,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 246775,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 5125,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 9568,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 11301,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1447,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 28636,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1755,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 35324,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 26623,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 99083,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 47573,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 50265,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 7857,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 22653,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 8312,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 17423,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 141381,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 16234,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    "Value": 8354,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    "Value": 688,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    "Value": 96,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 7508,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 16649,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    "Value": 9776,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2006,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 325738,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Belgique",
+    "UNIT": "Nombre",
+    "Value": 38718,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Tchequie",
+    "UNIT": "Nombre",
+    "Value": 44101,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Danemark",
+    "UNIT": "Nombre",
+    "Value": 10841,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Allemagne (jusqu'en 1990, ancien territoire de la RFA)",
+    "UNIT": "Nombre",
+    "Value": 250353,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Estonie",
+    "UNIT": "Nombre",
+    "Value": 3247,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Irlande",
+    "UNIT": "Nombre",
+    "Value": 13755,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Grece",
+    "UNIT": "Nombre",
+    "Value": 51152,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Espagne",
+    "UNIT": "Nombre",
+    "Value": 214920,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "France",
+    "UNIT": "Nombre",
+    "Value": 238478,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "France (metropolitaine)",
+    "UNIT": "Nombre",
+    "Value": 238478,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Croatie",
+    "UNIT": "Nombre",
+    "Value": 20424,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Italie",
+    "UNIT": "Nombre",
+    "Value": 247510,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Chypre",
+    "UNIT": "Nombre",
+    "Value": 5139,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Lettonie",
+    "UNIT": "Nombre",
+    "Value": 8222,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Lituanie",
+    "UNIT": "Nombre",
+    "Value": 11173,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Luxembourg",
+    "UNIT": "Nombre",
+    "Value": 1519,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Hongrie",
+    "UNIT": "Nombre",
+    "Value": 26334,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Malte",
+    "UNIT": "Nombre",
+    "Value": 1933,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Pays-Bas",
+    "UNIT": "Nombre",
+    "Value": 35363,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Autriche",
+    "UNIT": "Nombre",
+    "Value": 26623,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Pologne",
+    "UNIT": "Nombre",
+    "Value": 98337,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Portugal",
+    "UNIT": "Nombre",
+    "Value": 47276,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Roumanie",
+    "UNIT": "Nombre",
+    "Value": 50453,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Slovenie",
+    "UNIT": "Nombre",
+    "Value": 7971,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Slovaquie",
+    "UNIT": "Nombre",
+    "Value": 22512,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Finlande",
+    "UNIT": "Nombre",
+    "Value": 8156,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Suede",
+    "UNIT": "Nombre",
+    "Value": 17866,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "England et Wales",
+    "UNIT": "Nombre",
+    "Value": 140514,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Scotland",
+    "UNIT": "Nombre",
+    "Value": 16221,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Northern Ireland (UK)",
+    "UNIT": "Nombre",
+    "Value": 7431,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Islande",
+    "UNIT": "Nombre",
+    "Value": 683,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Liechtenstein",
+    "UNIT": "Nombre",
+    "Value": 93,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Norvege",
+    "UNIT": "Nombre",
+    "Value": 7464,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Suisse",
+    "UNIT": "Nombre",
+    "Value": 16199,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Ancienne Republique yougoslave de Macedoine",
+    "UNIT": "Nombre",
+    "Value": 9599,
+    "Flag and Footnotes": ""
+  },
+  {
+    "TIME": 2007,
+    "GEO": "Turquie",
+    "UNIT": "Nombre",
+    "Value": 329533,
+    "Flag and Footnotes": ""
+  }
+]
